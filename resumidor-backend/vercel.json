@@ -1,7 +1,6 @@
 {
   "functions": {
-    "api/summarize.js": {
-      "maxDuration": 30
-    }
+    "api/summarize.js": { "maxDuration": 30 },
+    "api/verify-license.js": { "maxDuration": 15 }
   }
 }
